@@ -14,6 +14,7 @@
 |**savingMode** | **FileSavingMode** |  |  [optional] |
 |**outputFormat** | **SupportedConversionsFormats** |  |  [optional] |
 |**format** | **DetectionSupportedFormats** |  |  [optional] |
+|**detectLanguage** | **Boolean** |  |  [optional] |
 
 
 
