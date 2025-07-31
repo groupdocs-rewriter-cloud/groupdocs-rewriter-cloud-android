@@ -105,7 +105,7 @@ Add this dependency to your project's POM:
 ```xml
 <dependency>
   <groupId>com.groupdocs</groupId>
-  <artifactId>GroupDocs-rewriter-cloud</artifactId>
+  <artifactId>GroupDocs-rewriter-android-cloud</artifactId>
   <version>24.7</version>
   <scope>compile</scope>
 </dependency>
